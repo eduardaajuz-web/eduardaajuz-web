@@ -1,16 +1,21 @@
-## Hi there 👋
+## oii sou a Duda 👋​𝄞𝄢
+💫
 
-<!--
-**eduardaajuz-web/eduardaajuz-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Faço Tec.em Desenvolvimento de Sistemas
+- 📚 Conteúdo que mais gostei foi programar em Python 
+- 💫 Meus hobbys são 
+- 📫 Em caso de dúvidas, entrar em contato através do email institucional: patrick.staroin@escola.pr.gov.br
 
-Here are some ideas to get you started:
+<div align= "center">
+  
+  ### Linguagens:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+  ![Node.js](https://img.shields.io/badge/-Node.js-336633?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/-Express-6cc24a?style=for-the-badge&logo=express&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ebebeb)
+  ![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Perfil destinado aos projetos realizados em sala de aula!
+</div>
